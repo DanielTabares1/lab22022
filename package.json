@@ -1,0 +1,28 @@
+{
+  "name": "lab22022",
+  "version": "1.0.0",
+  "description": "Calculadora Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielTabares1/lab22022.git"
+  },
+  "keywords": [
+    "Suma",
+    "Resta",
+    "Multi",
+    "Division"
+  ],
+  "author": "DanielT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielTabares1/lab22022/issues"
+  },
+  "homepage": "https://github.com/DanielTabares1/lab22022#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
